@@ -31,6 +31,6 @@ public class VvodimPeremennie {
         }
         while (result1 % 1 != 0);
 
-
-    }
+/*scanner.hasNextInt - проверка */
+    } /* scanner.nextLine() после while  цикла позволяет очистить кэш и не гонять по кругу до бесконечности)*/
 }
