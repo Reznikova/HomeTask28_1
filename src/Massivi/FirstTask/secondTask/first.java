@@ -32,3 +32,4 @@ public class first {
 //Arrays.toString(a) - вывести на экран массив строкой через soup
 //Arrays.equels(a,b) - сравнить два массива
 //Arrays.sort(a) - сортировка массива по возрастанию
+//Array.to.string.a
